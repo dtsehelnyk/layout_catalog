@@ -1,4 +1,5 @@
 .nav {
+
   &__list {
     @include flex($horizontal: flex-end);
   }
